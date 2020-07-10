@@ -7,7 +7,7 @@ I am an US developer specializing in the development of web applications and in 
 - CSR : [VueJS](https://vuejs.org/) [ReactJS](https://reactjs.org/)
 - SSR : [NuxtJS](https://nuxtjs.org/) [NextJS](https://nextjs.org/)
 
-![icons technologies]()
+![icons technologies](https://github.com/HakkaOfDev/HakkaOfDev/blob/master/banner-alexandre.png)
 
 # 🔗 Follow me
 [![Twitter Follow](https://img.shields.io/twitter/follow/hakkaofdev?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/hakkaofdev)
