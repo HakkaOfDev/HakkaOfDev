@@ -5,8 +5,8 @@ I am an US developer specializing in the development of web applications and in 
 - [JAVA](https://docs.oracle.com/javase/8/docs/api/)
 - [HTML](https://developer.mozilla.org/fr/docs/Web/HTML), [CSS](https://developer.mozilla.org/fr/docs/Web/CSS), [SASS](https://sass-lang.com/), [JS](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 - [AdonisJS](https://preview.adonisjs.com/)
-- CSR : [VueJS](https://vuejs.org/) [ReactJS](https://reactjs.org/)
-- SSR : [NuxtJS](https://nuxtjs.org/) [NextJS](https://nextjs.org/)
+- CSR : [VueJS](https://vuejs.org/), [ReactJS](https://reactjs.org/)
+- SSR : [NuxtJS](https://nuxtjs.org/), [NextJS](https://nextjs.org/)
 
 ![icons technologies](https://github.com/HakkaOfDev/HakkaOfDev/blob/master/banner-alexandre.png)
 
