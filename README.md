@@ -14,4 +14,9 @@ I am an US developer specializing in the development of web applications and in 
 [![Twitter Follow](https://img.shields.io/twitter/follow/hakkaofdev?color=%231DA1F2&label=Twitter&logo=Twitter&style=for-the-badge)](https://twitter.com/hakkaofdev)
 [![Github Follow](https://img.shields.io/github/followers/HakkaOfDev?color=000000&label=My%20Github&logo=Github&style=for-the-badge)](https://github.com/HakkaOfDev)
 [![Linkedin Follow](https://img.shields.io/static/v1?label=Linkedin&message=Alexandre%20Gossard&color=0896EC&logo=Linkedin&style=for-the-badge)](https://www.linkedin.com/in/hakkaofdev/)
+
 [![Discord Follow](https://img.shields.io/static/v1?label=Discord&message=Hakkā%236565&color=7289DA&logo=Discord&style=for-the-badge)]()
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/219057055233736704)](https://discord.com/users/219057055233736704)
+
+# 💻 Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HakkaOfDev&theme=dark-smoky&hide_border=true)](https://git.io/streak-stats)
