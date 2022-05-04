@@ -106,6 +106,10 @@
 
 <h1>💻 Stats</h1>
 
-<img src="https://github-readme-stats.vercel.app/api?username=hakkaofdev&show_icons=true&count_private=true&theme=radical&hide_border=true" width="50%" display="inline-block"/>
+<p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=HakkaOfDev&theme=radical&hide_border=true" width="50%" display="inline-block"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hakkaofdev&show_icons=true&count_private=true&theme=radical&hide_border=true" width="50%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=HakkaOfDev&theme=radical&hide_border=true" width="50%"/>
+
+</p>
