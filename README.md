@@ -16,7 +16,7 @@
 🖥️ See my portfolio on [my official homepage](http://hakkaofdev.fr)<br/>
 ✉️ You can contact me at [contact@hakkaofdev.fr](mailto:contact@hakkaofdev.fr)<br/>
 🧠 I'm currently learning [Framer-Motion](https://www.framer.com/motion/), [RedwoodJS](https://redwoodjs.com/) and [Terraform](https://www.terraform.io/)<br/>
-🤝 I'm open to collaborating on opensource projects and future cooperations.
+🤝 I'm open to collaborate on opensource projects and future cooperations.
 
 </p>
 </div>
@@ -34,7 +34,7 @@
     <img src="https://api.iconify.design/logos/sass.svg" height="40" width="40"/>
     <img src="https://api.iconify.design/vscode-icons/file-type-python.svg" height="40" width="40"/>
     <img src="https://api.iconify.design/vscode-icons/file-type-powershell.svg" height="40" width="40"/>
-    <img src="https://api.iconify.design/codicon/terminal-bash.svg" height="40" width="40"/>
+    <img src="https://api.iconify.design/codicon/terminal-bash.svg?color=%234DA925" height="40" width="40"/>
     <img src="https://api.iconify.design/logos/java.svg" height="40" width="40"/>
   </p>
 </div>
