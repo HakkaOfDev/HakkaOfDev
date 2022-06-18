@@ -9,6 +9,7 @@
 [![Discord Follow](https://img.shields.io/static/v1?label=Discord&message=Hakkā%236565&color=7289DA&logo=Discord&style=for-the-badge)](https://discord.com/users/219057055233736704)
 [![Youtube Follow](https://img.shields.io/static/v1?color=FF0000&label=Youtube&logo=Youtube&message=Hakkasama&style=for-the-badge)](https://www.youtube.com/channel/UCL2DQSKkbk4JoTtrrguSqmA)
 [![Twitch Follow](https://img.shields.io/static/v1?color=9146FF&label=Twitch&logo=Twitch&message=Hakkasama&style=for-the-badge)](https://www.twitch.tv/hakkasama)
+![](https://komarev.com/ghpvc/?username=hakkaofdev&style=for-the-badge)
 
 <p>
 
