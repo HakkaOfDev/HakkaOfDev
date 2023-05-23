@@ -15,8 +15,8 @@
 
 🌍 I'm based at Châlons-en-Champagne in France<br/>
 🖥️ See my portfolio on [my official homepage](http://hakkaofdev.fr)<br/>
-✉️ You can contact me at [contact@hakkaofdev.fr](mailto:contact@hakkaofdev.fr)<br/>
-🧠 I'm currently learning [Framer-Motion](https://www.framer.com/motion/), [RedwoodJS](https://redwoodjs.com/) and [Terraform](https://www.terraform.io/)<br/>
+✉️ You can contact me at [alexandre.gossard.pro@gmail.com](mailto:alexandre.gossard.pro@gmail.com)<br/>
+🧠 I'm currently learning [Framer-Motion](https://www.framer.com/motion/), [Hedera SDK](https://github.com/hashgraph/hedera-sdk-js)<br/>
 🤝 I'm open to collaborate on opensource projects and future cooperations.
 
 </p>
