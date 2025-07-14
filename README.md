@@ -2,11 +2,10 @@
   <h1>👋 Hi, I'm <span>Alexandre GOSSARD</span></h1>
   <p>I am a french developer specializing in the development of web applications and DevOps.</p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/hakkaofdev?color=%231DA1F2&label=Twitter&logo=Twitter&style=for-the-badge)](https://twitter.com/hakkaofdev)
 [![Github Follow](https://img.shields.io/github/followers/HakkaOfDev?color=000000&label=My%20Github&logo=Github&style=for-the-badge)](https://github.com/HakkaOfDev)
 [![Linkedin Follow](https://img.shields.io/static/v1?label=Linkedin&message=Alexandre%20Gossard&color=0896EC&logo=Linkedin&style=for-the-badge)](https://www.linkedin.com/in/hakkaofdev/)
 [![Instagram Follow](https://img.shields.io/static/v1?label=Instagram&message=hakkaofdev&color=E1306C&logo=Instagram&style=for-the-badge)](https://www.instagram.com/hakkaofdev/)
-[![Discord Follow](https://img.shields.io/static/v1?label=Discord&message=Hakkā%236565&color=7289DA&logo=Discord&style=for-the-badge)](https://discord.com/users/219057055233736704)
+[![Discord Follow](https://img.shields.io/static/v1?label=Discord&message=hakkaofdev&color=7289DA&logo=Discord&style=for-the-badge)](https://discord.com/users/219057055233736704)
 [![Youtube Follow](https://img.shields.io/static/v1?color=FF0000&label=Youtube&logo=Youtube&message=Hakkasama&style=for-the-badge)](https://www.youtube.com/channel/UCL2DQSKkbk4JoTtrrguSqmA)
 [![Twitch Follow](https://img.shields.io/static/v1?color=9146FF&label=Twitch&logo=Twitch&message=Hakkasama&style=for-the-badge)](https://www.twitch.tv/hakkasama)
 ![](https://komarev.com/ghpvc/?username=hakkaofdev&style=for-the-badge)
