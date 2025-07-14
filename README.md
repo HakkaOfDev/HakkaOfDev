@@ -45,13 +45,8 @@
     <img src="https://api.iconify.design/logos/kubernetes.svg" height="40" width="40"/>
     <img src="https://api.iconify.design/iconoir/github.svg" height="40" width="40"/>
     <img src="https://api.iconify.design/logos/gitlab.svg" height="40" width="40"/>
-    <img src="https://api.iconify.design/logos/jenkins.svg" height="40" width="40"/>
     <img src="https://api.iconify.design/logos/aws.svg" height="40" width="40"/>
-    <img src="https://api.iconify.design/logos/terraform-icon.svg" height="40" width="40"/>
-    <img src="https://api.iconify.design/logos/ansible.svg" height="40" width="40"/>
     <img src="https://api.iconify.design/logos/rabbitmq-icon.svg" height="40" width="40"/>
-    <img src="https://api.iconify.design/vscode-icons/file-type-maven.svg" height="40" width="40"/>
-    <img src="https://api.iconify.design/logos/gradle.svg" height="40" width="40"/>
   </p>
 </div>
 <div>
@@ -60,7 +55,6 @@
     <img src="https://api.iconify.design/logos/react.svg" height="40" width="40"/>
     <img src="https://api.iconify.design/simple-icons/chakraui.svg?color=%2381e6d9" height="40" width="40"/>
     <img src="https://api.iconify.design/vscode-icons/file-type-tailwind.svg" height="40" width="40"/>
-    <img src="https://api.iconify.design/logos/bootstrap.svg" height="40" width="40"/>
     <img src="https://api.iconify.design/vscode-icons/file-type-django.svg" height="40" width="40"/>
     <img src="https://api.iconify.design/bxl/flask.svg" height="40" width="40"/>
     <img src="https://api.iconify.design/simple-icons/fastapi.svg?color=%2305998b" height="40" width="40"/>
@@ -69,37 +63,8 @@
 <div>
   <p>Database<br/>
     <img src="https://api.iconify.design/logos/mysql.svg" height="40" width="40"/>
-    <img src="https://api.iconify.design/logos/mariadb.svg" height="40" width="40"/>
     <img src="https://api.iconify.design/logos/postgresql.svg" height="40" width="40"/>
     <img src="https://api.iconify.design/logos/mongodb.svg" height="40" width="40"/>
-    <img src="https://api.iconify.design/simple-icons/influxdb.svg?color=%2321a8ee" height="40" width="40"/>
-  </p>
-</div>
-<div>
-  <p>Applications<br/>
-    <img src="https://api.iconify.design/vscode-icons/file-type-photoshop.svg" height="40" width="40"/>
-    <img src="https://api.iconify.design/vscode-icons/file-type-ai.svg" height="40" width="40"/>
-    <img src="https://api.iconify.design/vscode-icons/file-type-vscode2.svg" height="40" width="40"/>
-    <img src="https://api.iconify.design/logos/intellij-idea.svg" height="40" width="40"/>
-    <img src="https://api.iconify.design/logos/webstorm.svg" height="40" width="40"/>
-    <img src="https://api.iconify.design/logos/phpstorm.svg" height="40" width="40"/>
-    <img src="https://api.iconify.design/logos/gitkraken.svg" height="40" width="40"/>
-    <img src="https://api.iconify.design/logos/figma.svg" height="40" width="40"/>
-    <img src="https://api.iconify.design/logos/trello.svg" height="40" width="40"/>
-    <img src="https://api.iconify.design/logos/jira.svg" height="40" width="40"/>
-  </p>
-</div>
-
-<div>
-  <p>Monitoring<br/>
-    <img src="https://api.iconify.design/logos/grafana.svg" height="40" width="40"/>
-    <img src="https://api.iconify.design/logos/prometheus.svg" height="40" width="40"/>
-  </p>
-</div>
-
-<div>
-  <p>Runtime<br/>
-    <img src="https://api.iconify.design/logos/nodejs.svg" height="40" width="40"/>
   </p>
 </div>
 
