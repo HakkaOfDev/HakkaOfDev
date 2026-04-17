@@ -87,8 +87,9 @@
 
 <h1>💻 Stats</h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hakkaofdev&show_icons=true&count_private=true&theme=radical&hide_border=true" height="180"/>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=HakkaOfDev&theme=radical&hide_border=true" height="180"/>
-</p>
+<table align="center"><tr>
+  <td><img src="https://github-readme-stats.vercel.app/api?username=hakkaofdev&show_icons=true&count_private=true&theme=radical&hide_border=true" height="180"/></td>
+  <td><img src="https://github-readme-streak-stats.herokuapp.com?user=HakkaOfDev&theme=radical&hide_border=true" height="180"/></td>
+</tr></table>
 
 </div>
